@@ -13,7 +13,7 @@ apt-get install git python-pip python-virtualenv rng-tools
 
 Check out the repository onto your local machine:
 ```
-git clone git@gitlab.com:aestetix/pgpfs.git
+git clone git@github.com:aestetix/pgpfs.git
 ```
 This creates a directory called "pgpfs." Go into the directory and  run
 ```
